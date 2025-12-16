@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/n4itr0-07.png" width="100" style="border-radius: 50%;" alt="Developer"/>
+<img src="https://github.com/user-attachments/assets/a6ee438d-6c9b-4205-996b-8afe2a741102" width="100" style="border-radius: 50%;" alt="app-icon"/>
 
 # 📱 ExamDock
 
