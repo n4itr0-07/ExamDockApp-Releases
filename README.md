@@ -102,26 +102,10 @@ Open the downloaded APK and tap **Install**
 
 ---
 
-## 👨‍💻 Developer
-
-<div align="center">
-
-**Salik Naik**
-
-Full Stack Developer
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salik__naik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salik-seraj-naik)
-[![Email](https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salikserajcse@bgsbu.ac.in)
-
-</div>
-
----
 
 ## 📞 Support
 
 Having issues? Contact us:
-- 📧 Email: salikserajcse@bgsbu.ac.in
 - 🌐 Website: [exmadock.site](https://exmadock.site)
 
 ---
