@@ -88,7 +88,7 @@ Open the downloaded APK and tap **Install**
 ## 🔧 Requirements
 
 - Android 7.0 or higher
-- ~25 MB storage space
+- ~35 MB storage space
 - Internet connection (for downloading papers)
 
 ---
